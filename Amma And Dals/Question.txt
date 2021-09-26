@@ -1,0 +1,42 @@
+Hello, Is there indian middle class child there..? wait this question is for you
+
+yeshoda an indian mother says his son krishna to bring some groceries (some dals). we all know how difficult remembering the dal names than remembering some difficult topics from data structures..
+
+here is the task where krishna should perform which is assigned by his mata ji: he will be given a list of different dal names and their priorities and a total of some money. now krishna has to go grocery store and buy groceries with the amount available as per priority but they are not sorted priority (all the dals will be purchased with same quantity eg: 1kg) if the last remaining amount will not sufficient for any dal he will purchase some chocolates to his sister sri ! 
+
+As the store is not a departmental store only some types of dals are available, since krishna has to buy the dals he will be going based on the priority example if 1st dal exists but not seconds then he will be going with the next available priority.
+
+krishna always confuses with these dal names he always got scoldings by his mother, but krishna is good with programming like you so he developed a program which performs all the task and gives the output.
+
+After buying all the available dals krishna will strike off and make the total amount used as he has to give updated info to his mother...
+
+why total ?
+why can't he buy all the dals ? 
+why aren't all the dals are availbe ?
+don't streess so much, in middle class every rupee counts... 
+ 
+
+
+
+Data(input):
+
+200
+4
+sengapappu badampappu pesarapappu kandipappu
+6 kandipappu   50
+5 minapappu    50
+1 sengapappu  30
+2 badampappu   20
+3 pesarapappu  90
+4 nuvvulapappu 40
+
+output:
+
+Total amount used for dals :190
+The updated list is :
+------ 30
+------ 20
+------ 90
+nuvvulapappu 40
+minapappu 50
+------ 50
