@@ -16,6 +16,42 @@ Find the next 3 digits.*/
 #not only for DEEK this code will generate password for any for letter word
 
 #code---->
+#include <iostream>
+using namespace std;
+int numberi(int a){
+    
+    int sum=0;
+    while(a!=0){
+        sum+=a%10;
+        a=a/10;
+    }
+if(sum<=9)
+    return sum;
+else 
+return numberi(sum);
+    
+}
+
+int main() {
+	// your code goes here
+string s;
+cin>>s;
+for(int i=0;s[i]!='\0';i++){
+	int x=s[i];
+	cout<<numberi(x)<<" ";
+    
+}
+	return 0;
+}
+
+
+
+
+
+
+//OR
+
+
 
 
 #include <bits/stdc++.h>
