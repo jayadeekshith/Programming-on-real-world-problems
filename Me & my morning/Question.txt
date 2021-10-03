@@ -1,0 +1,26 @@
+Q)You are a student of vignan's college,
+We all know how hard it is to catch a college bus to reach on time. What if we miss the college bus..? Yes, we may have some alternatives. here are some alternative mode of transport like auto and a good friend who supports our laziness. You will reach the college in different modes of transport based on the time you are starting. You have to calculate the most used mode of transport of the week.
+
+Note: 1) use python for easy datetime module u can know more about datetime module- https://stackoverflow.com/questions/10747974/how-to-check-if-the-current-time-is-in-range-in-python
+2) always use 24 hrs format
+3) use datetime module only
+
+
+Input:
+
+The first line of input is no. of working days in a week eliminating sunday(yes why would sunday be working day) 
+6
+08 31
+08 45
+14 30
+13 25
+08 10
+08 31
+Output:
+I went mostly on auto this week
+
+
+
+
+   
+
