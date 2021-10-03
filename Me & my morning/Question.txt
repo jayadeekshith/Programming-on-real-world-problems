@@ -1,5 +1,16 @@
 Q)You are a student of vignan's college,
-We all know how hard it is to catch a college bus to reach on time. What if we miss the college bus..? Yes, we may have some alternatives. here are some alternative mode of transport like auto and a good friend who supports our laziness. You will reach the college in different modes of transport based on the time you are starting. You have to calculate the most used mode of transport of the week.
+We all know how hard it is to catch a college bus to reach on time. What if we miss the college bus..? Yes, we may have some alternatives. here are some alternative mode of transport like auto and a good friend who supports our laziness. You will reach the college in different modes of transport based on the time you are starting. You have to count the most used mode of transport of the week.
+
+The output should be single line 
+if he comes by bus most of the days the output will be:
+"I went mostly by college bus this week"
+
+if he comes with friend most of the days the output will be:
+"I went mostly on my friend bike this week"
+
+if he comes by auto most of the days the output will be:
+"I went mostly on my friend bike this week"
+
 
 Note: 1) use python for easy datetime module u can know more about datetime module- https://stackoverflow.com/questions/10747974/how-to-check-if-the-current-time-is-in-range-in-python
 2) always use 24 hrs format
